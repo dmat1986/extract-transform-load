@@ -10,6 +10,7 @@ The definitions of each column in the input file:
 This script:
 
 (a) calculates the percentage of people who have each disease in each location, and
+
 (b) writes the result to a specified CSV file
 
 Notes:
